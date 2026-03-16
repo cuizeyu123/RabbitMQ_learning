@@ -12,3 +12,4 @@ channel.basic_publish(
 )
 print(" [x] Sent 'Hello World!'")
 connection.close()
+
